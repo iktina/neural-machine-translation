@@ -1,2 +1,2 @@
-# neural-machine-translation
-Neural Text Generation service for SingularityNET
+# Neural Machine Translation
+Neural Machine Translation service for SingularityNET
